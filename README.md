@@ -29,9 +29,6 @@ You need to create a device so that aCayenne Sync instance is associated with it
 
 ### Step 3 Retrieve the service id and TLS certificate
 
-Follow the link to obtain Device Service SID and TLS certificates,
-
-https://www.twilio.com/docs/quickstart/sync-iot/python-mqtt-quickstart#create-a-sync-document
 
 Note Down theCayenne credentials and download the certificates
 
